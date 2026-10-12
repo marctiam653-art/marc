@@ -33,7 +33,13 @@ section {
     width: 25%;
     padding: 10px;
     text-align: center;
-    background-color: white;
+    background-color: blueviolet;
+ }
+#services {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(28, 212, 236);
  }
 footer {
  padding: 12px;
